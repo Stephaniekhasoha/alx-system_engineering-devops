@@ -1,1 +1,1 @@
-switching current user to super user
+*printing the effective username to the current user
