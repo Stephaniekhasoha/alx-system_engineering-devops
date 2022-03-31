@@ -1,1 +1,1 @@
-executing permissions to all subdirectories of the current directory for the owner,group owner and other users
+permission 751 in my working directory
