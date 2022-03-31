@@ -1,1 +1,1 @@
-script printing all groups the current user is part of
+changing the owner of the file to the user
