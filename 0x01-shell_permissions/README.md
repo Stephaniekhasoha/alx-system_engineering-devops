@@ -1,1 +1,1 @@
-permission 751 in my working directory
+changing group owner to a file
