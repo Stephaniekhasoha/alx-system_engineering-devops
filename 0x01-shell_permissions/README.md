@@ -1,1 +1,1 @@
-executing permission to the owner of the file
+executing permission to the owner and the group owner and read permission to other users
