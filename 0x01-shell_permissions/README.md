@@ -1,1 +1,1 @@
-changing group owner to a file
+changing the owner and the group owner
