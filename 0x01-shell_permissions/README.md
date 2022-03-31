@@ -1,1 +1,1 @@
-john doe
+setting mode of files
