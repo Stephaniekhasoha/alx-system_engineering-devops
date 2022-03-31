@@ -1,1 +1,1 @@
-setting mode of files
+executing permissions to all subdirectories of the current directory for the owner,group owner and other users
