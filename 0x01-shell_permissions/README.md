@@ -1,1 +1,1 @@
-changing the owner of the file if it's owned by another user
+script that will play the StarWars IV episodes in the terminal
