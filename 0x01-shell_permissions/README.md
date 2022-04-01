@@ -1,1 +1,1 @@
-changing the owner and the group owner
+changing the owner of the file if it's owned by another user
