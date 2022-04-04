@@ -1,3 +1,2 @@
 #!/bin/bash
-echo 'tr A Z | tr c e' >> 19-AZ
-
+tr A Z | tr c e
