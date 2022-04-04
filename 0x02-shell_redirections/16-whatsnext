@@ -1,3 +1,2 @@
 #1/bin/bash
-echo 'grep -A 3 root /etc/passwd' >> 16-whatsnext
-
+grep -A 3 root /etc/passwd
